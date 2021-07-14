@@ -1,0 +1,27 @@
+
+#Header{
+    font-size: 30px;
+    text-align: center;
+    font-weight:bold;
+    line-height:200%;
+}
+#Name{
+text-transform: uppercase;
+font-size: 30px;
+text-align: center;
+font-weight:bold;
+line-height:200%;
+}
+#Intro{
+    margin-left:70px;
+   text-align:left; 
+   font-size: 25px;
+   line-height:200%;
+}
+#content{
+    font-size: 25px;
+    text-align: left;
+    margin-left:70px;
+    margin-right:70px;
+
+}
